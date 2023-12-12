@@ -29,8 +29,9 @@ h1, h2, h3 {
 
 <table>
   <tr>
-    <td style="padding-right: 50px;">
-      <img src="img/img.jpg" alt="Alt text" width="1100" height="250">
+      <td style="padding-right: 30px;">
+        <img src="img/img.jpg" alt="Alt text" style="max-width: 120%; height: auto;">
+    </td>
       <!-- or <img src="image_url" alt="Alt text"> -->
     </td>
     <td>
