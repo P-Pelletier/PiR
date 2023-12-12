@@ -1,0 +1,85 @@
+---
+title: "Research"
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Dark;
+  text-align: center;
+}
+body {
+    margin: 20px; /* Adjust the margin size as needed */
+}
+
+p {
+      text-align: justify;   font-size: 16px; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; 
+}
+</style>
+
+<br><br>
+
+#### **Published Papers:**
+
+<br>
+
+**Bianchini, S. \& Müller, M. \& Pelletier, P. (2022)**  [Artificial intelligence in science: An emerging general method of invention  -- Research Policy](https://www.sciencedirect.com/science/article/pii/S0048733322001275)
+
+This paper offers insights into the diffusion and impact of artificial intelligence in science. More specifically, we show that neural network-based technology meets the essential properties of emerging technologies in the scientific realm. It is novel, because it shows discontinuous innovations in the originating domain and is put to new uses in many application domains; it is quick growing, its dimensions being subject to rapid change; it is coherent, because it detaches from its technological parents, and integrates and is accepted in different scientific communities; and it has a prominent impact on scientific discovery, but a high degree of uncertainty and ambiguity associated with this impact. Our findings suggest that intelligent machines diffuse in the sciences, reshape the nature of the discovery process and affect the organization of science. We propose a new conceptual framework that considers artificial intelligence as an emerging general method of invention and, on this basis, derive its policy implications.
+
+----
+
+<br><br>
+
+#### **Working Papers:**
+
+<br>
+
+**Pelletier, P. \& Wirtz, K. (2023)** Unpacking Scientific Creativity: A Team Composition Perspective
+
+This paper investigates the relationship between cognitive diversity within scientific teams and their ability to generate innovative ideas and gain scientific recognition. We propose a novel author-level metric based on the semantic representation of researchers' past publications to measure cognitive diversity at individual and team levels. Using PubMed Knowledge Graph (PKG), we analyze the impact of cognitive diversity on novelty, as measured by combinatorial novelty indicators and peer labels on Faculty Opinion. We assessed scientific impact through citations and disruption indicators. Cognitive diversity between team members appears to be always beneficial to combining more distant knowledge. We show that while the effect is positive, it is marginally decreasing. Our findings reveal also that within-team average exploratory profiles follow an inverse U-shaped relationship with combinatorial novelty and citation impact. We show that the presence of highly exploratory individuals is profitable to generate distant knowledge combinations only when balanced by a significant proportion of highly exploitative individuals. Also, teams with a high share of exploitative profiles consolidate science, while those with a high share of both profiles disrupt it. These results emphasise the implication of team composition in scientific creativity, suggesting that combining these two types of individuals leads to the most disruptive and distant knowledge combinations. 
+
+<br>
+
+**Bianchini, S. \& Müller, M. \& Pelletier, P. (2023)**  Integrating New Technologies into Science: The case of AI
+
+New technologies have the power to revolutionize science. It has happened in the past and is happening again with the emergence of new computational tools, such as Artificial Intelligence (AI) and Machine Learning (ML). Despite the documented impact of these technologies, there remains a significant gap in understanding the process of their adoption within the scientific community. In this paper, we draw on theories of scientific and technical human capital (STHC) to study the integration of AI in scientific research, focusing on the human capital of scientists and the external resources available within their network of collaborators and institutions. We validate our hypotheses on a large sample of publications from OpenAlex, covering all sciences from 1980 to 2020. We find that the diffusion of AI is strongly driven by social mechanisms that organize the deployment and creation of human capital that complements the technology. Our results suggest that AI is pioneered by domain scientists with a ``taste for exploration" and being embedded in a network rich of computer scientists, experienced AI scientists and early-career researchers; they also come from institutions with high citation impact and a relatively strong publication history on AI. The pattern is similar across scientific disciplines, the exception being access to high-performance computing (HPC), which is important in chemistry and the medical sciences but less so in other fields. Once AI is integrated into research, most adoption factors continue to influence its subsequent reuse. Implications for the organization and management of science in the evolving era of AI-driven discovery are discussed.
+
+<br>
+
+**Pelletier, P. \& Wirtz, K. (2022)**  [Novelpy: A Python package to measure novelty and disruptiveness of bibliometric and patent data -- ArXiv](https://arxiv.org/abs/2211.10346)
+
+Novelpy (v1.2) is an open-source Python package designed to compute bibliometrics indicators. The package aims to provide a tool to the scientometrics community that centralizes different measures of novelty and disruptiveness, enables their comparison and fosters reproducibility. This paper offers a comprehensive review of the different indicators available in Novelpy by formally describing these measures (both mathematically and graphically) and presenting their benefits and limitations. We then compare the different measures on a random sample of 1.5M articles drawn from Pubmed Knowledge Graph to demonstrate the module's capabilities. We encourage anyone interested to participate in the development of future versions.
+
+<br>
+
+**Müller, M. \& Wirtz, K. \& Pelletier, P. \& Bianchini, S. (2021)**  [On the global health science response to COVID-19 -- ArXiv](https://iceanet.org/wp-content/uploads/2022/04/Mueller.pdf)
+
+How has the global health science system reacted to the COVID-19 pandemic? Here we investigate how — over the first year of the pandemic — national output and international collaboration on coronavirus-related research (CRR) correlates with prior activity in the health sciences, pandemic-related factors, and the broader socio-economic context. We find that prior CRR experience is influential in (inter-)national CRR in particular in the first two months of the pandemic. Subsequently, more general health science capacity becomes the dominating factor of CRR output. National COVID-19 incidences, national confinement measures, and broader socioeconomic conditions turn out to be only weakly correlated with (inter-)national CRR. Consequently, the rapid expansion of global CRR followed mostly the structure laid out by the global health science system. However, the international CRR network experienced a significant decrease in hierarchy accompanied by increasing collaboration within pre-established regional science communities.
+
+---
+
+<br><br>
+
+#### **Ongoing Work:**
+
+<br>
+
+**Pelletier P. \& Geuna A. \& Souza D.** AI in Medical Research in Canada: The development of regional competencies
+
+This article studies the adoption of AI and robotics in hospitals in Canadian metropolitan areas from 2000 to 2021. Using bibliometric data from OpenAlex, we study how earlier performance in AI and robotic technologies by local public research organizations and businesses is correlated with future adoption by hospitals. We proxy performance with both output and specialization indicators. On top of the availability of relevant new local knowledge, adoption in hospitals is correlated with the diffusion of national and international knowledge into the local ecosystem. We measure network eigenvector centrality in national and international co-publication networks in relevant fields to investigate the positioning of Canadian urban areas in the public and private collaborative network in AI and robotics. We show that the adoption of AI and robotics technologies in hospitals is linked to: a) the existence of a thriving local ecosystem supporting the development of the technologies, and b) the ease of access to national and international hot-spots for frontier research in AI and robotics. Finally, we identify a minimum threshold effect of competencies present in the hospital below which diffusion is rather difficult, and alternatively above which diffusion will become more likely.
+
+
+<br>
+
+**Fontana M. \& Geuna A. \& Iori M. \& Pelletier P. \& Souza D.** Using Novelty Measures Acritically: Shortcomings and Pitfalls
+
+<br>
+
+**Guichardaz M. \& Maltese A-G. \& Pelletier P.** Transformers' Creative Rebellion: Challenging Human Minds 

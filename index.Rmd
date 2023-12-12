@@ -1,0 +1,53 @@
+---
+title: "Pierre Pelletier"
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Dark;
+  text-align: center;
+}
+body {
+    margin: 20px; /* Adjust the margin size as needed */
+}
+
+p {
+       text-align: justify;   font-size: 18px; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; 
+}
+</style>
+
+
+<br><br><br>
+---
+
+<table>
+  <tr>
+    <td style="padding-right: 50px;">
+      <img src="img/img.jpg" alt="Alt text" width="1100" height="250">
+      <!-- or <img src="image_url" alt="Alt text"> -->
+    </td>
+    <td>
+     
+I am currently a Postdoctoral Researcher at  at the **University of Turin**, [Department of Culture, Politics, and Society (CPS)](https://www.didattica-cps.unito.it/do/home.pl).
+
+My research interests include Economics of Science, Economics of AI, and Scientometrics.
+
+
+I hold a **PhD in Economics** from the University of Strasbourg at [BETA Economics](https://beta-economics.fr/en/home/).
+
+
+As part of my PhD thesis, I studied the impact of AI on the scientific system and its adoption using various bibliometrics techniques. I also proposed a python package to compute novelty and disruptiveness indicators of scientific publication, and study how team cognitive diversity shape these metrics.
+
+    </td>
+  </tr>
+</table>
+
+---
+ 

@@ -1,0 +1,53 @@
+---
+title: "References"
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Dark;
+  text-align: center;
+}
+body {
+    margin: 20px; /* Adjust the margin size as needed */
+}
+
+p {
+     text-align: justify;   font-size: 18
+     px; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; 
+}
+</style>
+
+
+<br><br>
+
+- **Aldo Geuna**
+<br>
+
+  Full Professor
+  
+  University of Turin, CPS
+  
+  [aldo.geuna@unito.it](mailto:aldo.geuna@unito.it)
+
+
+
+<br><br>
+
+- **Stefano Bianchini**
+<br>
+  
+  Maître de Conférence - HDR
+  
+  Université de Strasbourg, BETA
+  
+  [s.bianchini@unistra.fr](mailto:s.bianchini@unistra.fr)
+
+<br>
+<br>

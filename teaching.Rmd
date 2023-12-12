@@ -1,0 +1,49 @@
+---
+title: "Teaching"
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Dark;
+  text-align: center;
+}
+body {
+    margin: 20px; /* Adjust the margin size as needed */
+}
+
+p {
+    text-align: justify;   font-size: 16px; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; 
+}
+</style>
+
+
+<br><br>
+
+
+<br>
+
+Teaching Assistant, University of Strasbourg -- Department of Economics
+
+<br>
+
+  - Microeconomics -- undergraduate level (1st year)
+
+<br>
+
+  - VBA -- undergraduate level (2nb year)
+
+<br>
+
+  - Prommaging with R -- undergraduate level (3rd year)
+
+<br>
+
+  - Prommaging with Python/R -- graduate level (1st year)
+<br>

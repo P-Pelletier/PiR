@@ -1,0 +1,81 @@
+---
+title: "CV"
+---
+
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Dark;
+  text-align: center;
+}
+body {
+    margin: 20px; /* Adjust the margin size as needed */
+}
+
+p {
+       text-align: justify;   font-size: 16px; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; 
+}
+</style>
+
+<br><br>
+
+```{r,echo=F}
+library(downloadthis)
+download_link(
+  link = "https://github.com/P-Pelletier/PiR/raw/gh-pages/m1_recap.pdf",
+  button_label = "Download full CV",
+  button_type = "primary",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+<br><br>
+
+**Current positions:** 
+
+<br>
+
+ - June 2023 -- : Postdoctoral Researcher, **Department of Cultures, Politics and Society (CPS), University of Turin**
+ 
+ - October 2019 -- : Teaching assistant,  **University of Strasbourg**
+
+<br><br>
+
+**Previous positions:**
+
+<br>
+
+ - June 2023 -- September 2023: Research Assistant -- **ESC - Rennes School of Business** : Contribution to a project on AI adoption in Science.
+ 
+
+ - June 2019 -- September 2019:  Research Assistant --  **BETA - University of Strasbourg** : Bibliometric analysis of scientific publications and patents data.
+ 
+
+
+<br><br>
+
+**Education:** 
+
+<br>
+
+- June 2023: PhD In Economics, University of Strasbourg & Bureau d'Economie Théorique et Appliquée
+
+    - <u> Title </u>: "Artificial Intelligence in Science: Diffusion and Impact" 
+
+    - <u> Supervisor </u>: Stefano  Bianchini (BETA)
+
+    - <u> Jury </u>: Aldo Geuna (Université de Turin), Jacques Mairesse (Université de Maastricht), Michele Pezzoni (Université de Nice), Reinhilde Veugelers (KU Leuven), Sandrine Wolff (Université de Strasbourg)
+
+
+- 2018: Master in Analysis and Politics Economics, University of Strasbourg -- Statistics and Econometrics
+
+- 2016: Bachelor in Economics, University of Strasbourg -- Quantitative Economics	

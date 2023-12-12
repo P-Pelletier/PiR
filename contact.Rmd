@@ -1,0 +1,47 @@
+---
+title: "Contact"
+---
+
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Dark;
+  text-align: center;
+}
+body {
+    margin: 20px; /* Adjust the margin size as needed */
+}
+
+p {
+      text-align: justify;   font-size: 16px; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; 
+}
+</style>
+
+<br><br>
+
+- [pierreemmanuel.pelletier@unito.it](mailto:pierreemmanuel.pelletier@unito.it) -- [CPS Page](https://www.dcps.unito.it/persone/pierreemmanuel.pelletier)
+
+  CPS 
+
+  Lungo Dora Siena, 100A
+
+  10153 Turin, Italy
+
+<br><br>
+
+- [p.pelletier@unistra.fr](mailto:p.pelletier@unistra.fr) -- [BETA Page](https://beta-economics.fr/annuaire/343/pelletier_pierre/)
+
+  BETA
+  
+  61 Avenue de la Forêt Noire 
+  
+  67083 Strasbourg, France
+  
+  
