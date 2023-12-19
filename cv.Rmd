@@ -29,7 +29,7 @@ h1, h2, h3 {
 ```{r,echo=F}
 library(downloadthis)
 download_link(
-  link = "https://github.com/P-Pelletier/PiR/blob/master/cv_beta.pdf",
+  link = "https://github.com/P-Pelletier/PiR/blob/master/CV.pdf",
   button_label = "Download full CV",
   button_type = "primary",
   has_icon = TRUE,
