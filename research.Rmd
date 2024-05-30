@@ -73,8 +73,20 @@ How has the global health science system reacted to the COVID-19 pandemic? Here 
 
 **Pelletier P. \& Geuna A. \& Souza D.** AI in Medical Research in Canada: The development of regional competencies
 
-This article studies the adoption of AI and robotics in hospitals in Canadian metropolitan areas from 2000 to 2021. Using bibliometric data from OpenAlex, we study how earlier performance in AI and robotic technologies by local public research organizations and businesses is correlated with future adoption by hospitals. We proxy performance with both output and specialization indicators. On top of the availability of relevant new local knowledge, adoption in hospitals is correlated with the diffusion of national and international knowledge into the local ecosystem. We measure network eigenvector centrality in national and international co-publication networks in relevant fields to investigate the positioning of Canadian urban areas in the public and private collaborative network in AI and robotics. We show that the adoption of AI and robotics technologies in hospitals is linked to: a) the existence of a thriving local ecosystem supporting the development of the technologies, and b) the ease of access to national and international hot-spots for frontier research in AI and robotics. Finally, we identify a minimum threshold effect of competencies present in the hospital below which diffusion is rather difficult, and alternatively above which diffusion will become more likely.
+ This study explores the deployment of artificial intelligence in Canadian hospitals from 2000 to 2021, focusing on metropolitan areas. We investigate how local public and private research ecosystems and links to national and international AI hubs influence the adoption of AI in healthcare. Our analysis shows that AI research outputs from public institutions have a significant impact on AI competences in hospitals. In addition, collaborations between hospitals are critical to the successful integration of AI. Metropolitan areas such as Toronto, Montreal and Vancouver are leading the way in AI deployment. These findings highlight the importance of local AI research capabilities and international hospital collaborations, and provide guidance to policymakers and healthcare leaders to drive the diffusion of AI technology in healthcare.
 
+
+```{r,echo=F}
+library(downloadthis)
+download_link(
+  link = "https://github.com/P-Pelletier/PiR/raw/gh-pages/Appendix_AI_Canada.pdf",
+  button_label = "Download Appendix",
+  button_type = "primary",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
 
 <br>
 
