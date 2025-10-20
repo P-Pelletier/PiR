@@ -36,13 +36,15 @@ h1, h2, h3 {
     </td>
     <td>
      
-I am currently a Postdoctoral Researcher at  at the **University of Turin**, [Department of Culture, Politics, and Society (CPS)](https://www.didattica-cps.unito.it/do/home.pl).
+
+I am currently a Associate Professor at the **University of Strasbourg**, [BETA Economics](https://www.beta-economics.fr/en/home/).
+
+Previously I was a Postdoctoral Researcher at the **University of Turin**, [Department of Culture, Politics, and Society (CPS)](https://www.didattica-cps.unito.it/do/home.pl).
 
 My research interests include Economics of Science, Economics of AI, and Scientometrics.
 
 
 I hold a **PhD in Economics** from the University of Strasbourg at [BETA Economics](https://beta-economics.fr/en/home/).
-
 
 As part of my PhD thesis, I studied the impact of AI on the scientific system and its adoption using various bibliometrics techniques. I also proposed a python package to compute novelty and disruptiveness indicators of scientific publication, and study how team cognitive diversity shape these metrics.
 

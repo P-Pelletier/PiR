@@ -23,27 +23,46 @@ h1, h2, h3 {
 }
 </style>
 
-
-<br><br>
-
-
+# Teaching Resources
 <br>
+```{r,echo=F}
+library(htmltools)
 
-Teaching Assistant, University of Strasbourg -- Department of Economics
-
-<br>
-
-  - Microeconomics -- undergraduate level (1st year)
-
-<br>
-
-  - VBA -- undergraduate level (2nb year)
-
-<br>
-
-  - Prommaging with R -- undergraduate level (3rd year)
-
-<br>
-
-  - Prommaging with Python/R -- graduate level (1st year)
+# Container to hold buttons side by side and centered
+div(
+  style = "display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;",
+  
+  tags$a(
+    href = "https://p-pelletier.github.io/M1-ETIC-MPE/",
+    target = "_blank",
+    class = "btn btn-primary",
+    style = "background-color: #4a4a4a; border-color: #4a4a4a; color: white;",
+    "M1-ETIC-MPE"
+  ),
+  
+  tags$a(
+    href = "https://p-pelletier.github.io/M1-R-DS2E-SE/",
+    target = "_blank",
+    class = "btn btn-primary",
+    style = "background-color: #4a4a4a; border-color: #4a4a4a; color: white;",
+    "M1-R-DS2E-SE"
+  ),
+  
+  tags$a(
+    href = "https://p-pelletier.github.io/M1-Py-DS2E-SE/",
+    target = "_blank",
+    class = "btn btn-primary",
+    style = "background-color: #4a4a4a; border-color: #4a4a4a; color: white;",
+    "M1-Py-DS2E-SE"
+  ),
+  
+  tags$a(
+    href = "https://p-pelletier.github.io/M2-Py-DS2E/",
+    target = "_blank",
+    class = "btn btn-primary",
+    style = "background-color: #4a4a4a; border-color: #4a4a4a; color: white;",
+    "M2-Py-DS2E"
+  )
+)
+```
 <br>

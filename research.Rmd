@@ -29,6 +29,30 @@ h1, h2, h3 {
 
 <br>
 
+**Bianchini, S. \& Müller, M. \& Pelletier, P. (2022)**  [Drivers and barriers of AI adoption and use in scientific research  -- Technological Forecasting and Social Change](https://arxiv.org/abs/2312.09843)
+
+New technologies have the power to revolutionize science. It has happened in the past and is happening again with the emergence of new computational tools, such as artificial intelligence and machine learning. Despite the documented impact of these technologies, there remains a significant gap in understanding the process of their adoption within the scientific community. In this paper, we draw on theories of scientific and technical human capital to study the integration of AI in scientific research, focusing on the human capital of scientists and the external resources available within their network of collaborators and institutions. We validate our hypotheses on a large sample of publications from OpenAlex, covering all sciences from 1980 to 2020, and identify a set key drivers and inhibitors of AI adoption and use in science. Our results suggest that AI is pioneered by domain scientists with a `taste for exploration' and who are embedded in a network rich of computer scientists, experienced AI scientists and early-career researchers; they come from institutions with high citation impact and a relatively strong publication history on AI. The access to computing resources only matters for a few scientific disciplines, such as chemistry and medical sciences. Once AI is integrated into research, most adoption factors continue to influence its subsequent reuse. Implications for the organization and management of science in the evolving era of AI-driven discovery are discussed.
+
+<br>
+
+**Pelletier, P. \&  Geuna A. \& Souza D. (2024)**  [Artificial intelligence research in Canadian hospitals: The development of metropolitan competencies  -- Healthcare Management Forum](https://journals.sagepub.com/doi/abs/10.1177/08404704241271218)
+
+This study explores the deployment of Artificial Intelligence (AI) in Canadian hospitals from 2000 to 2021, focusing on metropolitan areas. We investigate how local public and private research ecosystems and links to national and international AI hubs influence the adoption of AI in healthcare. Our analysis shows that AI research outputs from public institutions have a significant impact on AI competences in hospitals. In addition, collaborations between hospitals are critical to the successful integration of AI. Metropolitan areas such as Toronto, Montreal, and Vancouver are leading the way in AI deployment. These findings highlight the importance of local AI research capabilities and international hospital collaborations and provide guidance to policy-makers and health leaders to drive the diffusion of AI technology in healthcare.
+
+
+```{r,echo=F}
+library(downloadthis)
+download_link(
+  link = "https://github.com/P-Pelletier/PiR/raw/gh-pages/Appendix_AI_Canada.pdf",
+  button_label = "Download Appendix",
+  button_type = "primary",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+<br>
+
 **Bianchini, S. \& Müller, M. \& Pelletier, P. (2022)**  [Artificial intelligence in science: An emerging general method of invention  -- Research Policy](https://www.sciencedirect.com/science/article/pii/S0048733322001275)
 
 This paper offers insights into the diffusion and impact of artificial intelligence in science. More specifically, we show that neural network-based technology meets the essential properties of emerging technologies in the scientific realm. It is novel, because it shows discontinuous innovations in the originating domain and is put to new uses in many application domains; it is quick growing, its dimensions being subject to rapid change; it is coherent, because it detaches from its technological parents, and integrates and is accepted in different scientific communities; and it has a prominent impact on scientific discovery, but a high degree of uncertainty and ambiguity associated with this impact. Our findings suggest that intelligent machines diffuse in the sciences, reshape the nature of the discovery process and affect the organization of science. We propose a new conceptual framework that considers artificial intelligence as an emerging general method of invention and, on this basis, derive its policy implications.
@@ -39,17 +63,16 @@ This paper offers insights into the diffusion and impact of artificial intellige
 
 #### **Working Papers:**
 
+
+
+**Guichardaz M. \& Maltese A-G. \& Pelletier P. (2024)** [Can AI Enhance its Creativity to Beat Humans?](https://arxiv.org/abs/2409.18776)
+
+Creativity is a fundamental pillar of human expression and a driving force behind innovation, yet it now stands at a crossroads. As artificial intelligence advances at an astonishing pace, the question arises: can machines match and potentially surpass human creativity? This study investigates the creative performance of artificial intelligence (AI) compared to humans by analyzing the effects of two distinct prompting strategies (a Naive and an Expert AI) on AI and across three different tasks (Text, Draw and Alternative Uses tasks). Human external evaluators have scored creative outputs generated by humans and AI, and these subjective creative scores were complemented with objective measures based on quantitative measurements and NLP tools. The results reveal that AI generally outperforms humans in creative tasks, though this advantage is nuanced by the specific nature of each task and the chosen creativity criteria. Ultimately, while AI demonstrates superior performance in certain creative domains, our results suggest that integrating human feedback is crucial for maximizing AI's creative potential.
 <br>
 
 **Pelletier, P. \& Wirtz, K. (2023)** [Sails and Anchors: The Complementarity of Exploratory and Exploitative Scientists in Knowledge Creation](http://arxiv.org/abs/2312.10476)
 
 This paper investigates the relationship between cognitive diversity within scientific teams and their ability to generate innovative ideas and gain scientific recognition. We propose a novel author-level metric based on the semantic representation of researchers' past publications to measure cognitive diversity at individual and team levels. Using PubMed Knowledge Graph (PKG), we analyze the impact of cognitive diversity on novelty, as measured by combinatorial novelty indicators and peer labels on Faculty Opinion. We assessed scientific impact through citations and disruption indicators. Cognitive diversity between team members appears to be always beneficial to combining more distant knowledge. We show that while the effect is positive, it is marginally decreasing. Our findings reveal also that within-team average exploratory profiles follow an inverse U-shaped relationship with combinatorial novelty and citation impact. We show that the presence of highly exploratory individuals is profitable to generate distant knowledge combinations only when balanced by a significant proportion of highly exploitative individuals. Also, teams with a high share of exploitative profiles consolidate science, while those with a high share of both profiles disrupt it. These results emphasise the implication of team composition in scientific creativity, suggesting that combining these two types of individuals leads to the most disruptive and distant knowledge combinations. 
-
-<br>
-
-**Bianchini, S. \& Müller, M. \& Pelletier, P. (2023)**  [Integrating New Technologies into Science: The case of AI](https://arxiv.org/abs/2312.09843)
-
-New technologies have the power to revolutionize science. It has happened in the past and is happening again with the emergence of new computational tools, such as Artificial Intelligence (AI) and Machine Learning (ML). Despite the documented impact of these technologies, there remains a significant gap in understanding the process of their adoption within the scientific community. In this paper, we draw on theories of scientific and technical human capital (STHC) to study the integration of AI in scientific research, focusing on the human capital of scientists and the external resources available within their network of collaborators and institutions. We validate our hypotheses on a large sample of publications from OpenAlex, covering all sciences from 1980 to 2020. We find that the diffusion of AI is strongly driven by social mechanisms that organize the deployment and creation of human capital that complements the technology. Our results suggest that AI is pioneered by domain scientists with a ``taste for exploration" and being embedded in a network rich of computer scientists, experienced AI scientists and early-career researchers; they also come from institutions with high citation impact and a relatively strong publication history on AI. The pattern is similar across scientific disciplines, the exception being access to high-performance computing (HPC), which is important in chemistry and the medical sciences but less so in other fields. Once AI is integrated into research, most adoption factors continue to influence its subsequent reuse. Implications for the organization and management of science in the evolving era of AI-driven discovery are discussed.
 
 <br>
 
@@ -69,29 +92,17 @@ How has the global health science system reacted to the COVID-19 pandemic? Here 
 
 #### **Ongoing Work:**
 
+
 <br>
 
-**Pelletier P. \& Geuna A. \& Souza D.** AI in Medical Research in Canada: The development of regional competencies
+**Bianchini, S. \&  Napoli, I. \& Pellegrino, G \& Pelletier, P** – Chat-PhD: The Role of LLM in Shaping the Research Practices and Productivity of Young Scholars.
 
- This study explores the deployment of artificial intelligence in Canadian hospitals from 2000 to 2021, focusing on metropolitan areas. We investigate how local public and private research ecosystems and links to national and international AI hubs influence the adoption of AI in healthcare. Our analysis shows that AI research outputs from public institutions have a significant impact on AI competences in hospitals. In addition, collaborations between hospitals are critical to the successful integration of AI. Metropolitan areas such as Toronto, Montreal and Vancouver are leading the way in AI deployment. These findings highlight the importance of local AI research capabilities and international hospital collaborations, and provide guidance to policymakers and healthcare leaders to drive the diffusion of AI technology in healthcare.
+<br>
 
-
-```{r,echo=F}
-library(downloadthis)
-download_link(
-  link = "https://github.com/P-Pelletier/PiR/raw/gh-pages/Appendix_AI_Canada.pdf",
-  button_label = "Download Appendix",
-  button_type = "primary",
-  has_icon = TRUE,
-  icon = "fa fa-save",
-  self_contained = FALSE
-)
-```
+**Guichardaz M. \& Maltese A-G. \& Pelletier P.** – Fostering Creativity: The Role of Incentives in Human-AI Co-Creation
 
 <br>
 
 **Fontana M. \& Geuna A. \& Iori M. \& Pelletier P. \& Souza D.** Using Novelty Measures Acritically: Shortcomings and Pitfalls
 
 <br>
-
-**Guichardaz M. \& Maltese A-G. \& Pelletier P.** Transformers' Creative Rebellion: Challenging Human Minds 
