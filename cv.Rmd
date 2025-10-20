@@ -28,13 +28,19 @@ h1, h2, h3 {
 
 ```{r,echo=F}
 library(downloadthis)
-download_link(
-  link = "https://github.com/P-Pelletier/PiR/raw/gh-pages/CV.pdf",
-  button_label = "Download full CV",
-  button_type = "primary",
-  has_icon = TRUE,
-  icon = "fa fa-save",
-  self_contained = FALSE
+library(htmltools)
+# Center the download button
+div(
+  style = "display: flex; justify-content: center;",
+  download_link(
+    link = "https://github.com/P-Pelletier/PiR/raw/gh-pages/CV.pdf",
+    button_label = "Download full CV",
+    button_type = "default",
+    has_icon = TRUE,
+    icon = "fa fa-save",
+    self_contained = FALSE,
+    class = "custom-download-btn"
+  )
 )
 ```
 
