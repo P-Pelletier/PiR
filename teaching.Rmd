@@ -41,7 +41,7 @@ div(
   ),
   
   tags$a(
-    href = "https://p-pelletier.github.io/M1-R-DS2E-SE/",
+    href = "https://p-pelletier.github.io/M1-S1-DS2E-SE/",
     target = "_blank",
     class = "btn btn-primary",
     style = "background-color: #4a4a4a; border-color: #4a4a4a; color: white;",
